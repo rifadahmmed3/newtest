@@ -1,0 +1,27 @@
+[debug] [2024-04-23T04:24:58.595Z] ----------------------------------------------------------------------
+[debug] [2024-04-23T04:24:58.603Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Shithil\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2024-04-23T04:24:58.604Z] CLI Version:   13.7.3
+[debug] [2024-04-23T04:24:58.605Z] Platform:      win32
+[debug] [2024-04-23T04:24:58.606Z] Node Version:  v20.11.1
+[debug] [2024-04-23T04:24:58.606Z] Time:          Tue Apr 23 2024 10:24:58 GMT+0600 (Bangladesh Standard Time)
+[debug] [2024-04-23T04:24:58.607Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-23T04:24:58.628Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-23T04:24:58.630Z] > authorizing via signed-in user (rifadahmmed2@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Shithil\Desktop\projects\ecmapp\eapp
+
+[debug] [2024-04-23T04:25:26.178Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\Shithil\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:261:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.
